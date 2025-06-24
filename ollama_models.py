@@ -1,0 +1,1 @@
+MISTRAL_K_S = 'mistral:7b-instruct-v0.2-q4_K_S'
