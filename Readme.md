@@ -6,9 +6,9 @@ This is a simple Python tool that listens for the **F8** key globally and automa
 
 ## ✨ Features
 
-- 🔤 Fixes typos, punctuation, and casing in any selected text.
+- 🔤 Fixes typos, punctuation, and casing in any selected text. Triggered globally via the `F8` key.
+- ⌨️ Translate text to Ukrainian language. Triggered globally via the `F7` key.
 - 🧠 Uses a local Ollama language model (e.g., `Mistral`) for correction.
-- ⌨️ Triggered globally via the `F8` key.
 - 📋 Works with the system clipboard.
 - ⚡ Real-time streaming response from the model.
 
